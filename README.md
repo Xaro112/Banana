@@ -1,2 +1,3 @@
-# Banana
-platano #tuleteraconlapapaya
+Descripción:
+Objetivos:
+Modelo de negocios:
